@@ -1,0 +1,5 @@
+install requirements, run tests:
+
+$> pip install -r requirements.pip
+$> py.test
+
